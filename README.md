@@ -2,7 +2,7 @@
 
 Building AI course project
 
-Summary
+## Summary
 
 Brocoberries is an English activity workbook for German-speaking children aged 5–8. This project explores how artificial intelligence can support the creation of educational stories, illustrations, and learning exercises, with human review to ensure quality.
 
