@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-Brocoberries uses AI to help create English learning stories, illustrations, and activities for German-speaking children aged 5–8. Human review ensures educational quality and age-appropriate content.
+Brocoberries uses AI to help create English learning stories, illustrations, and activities for children aged 5–8. Human review ensures educational quality and age-appropriate content.
 
 Background
 
